@@ -1,7 +1,7 @@
 ### Hi there, I'm [Polichan](https://www.7float.com). 👋
 
 - 🌱 I’m currently learning Rust.
-- 📫 How to reach me: lazysloths@yahoo.com
+- 📫 How to reach me: chenpy@oiine.com
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=polichan&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
